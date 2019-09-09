@@ -1,0 +1,15 @@
+.arial { font-family: Arial; }
+.verdana { font-family: Verdana; }
+.tahoma { font-family: Tahoma; }
+.exampleone {
+	background-color: rgb(255, 255, 128);
+}
+h1 {
+    color: red;
+}
+h3 {
+	color: purple;
+}
+h6 {
+	color: blue;
+}
